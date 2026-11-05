@@ -2,4 +2,6 @@ body {
   background: url("space.gif") repeat;
   color: orange;
   font-family: monospace;
+  font-weight: 640;
+   font-size: 38px;
 }
